@@ -18,4 +18,9 @@ The goal of this lab is to deploy a vulnerable Azure Virtual Machine (Honeypot) 
 - Remote Desktop Protocol (RDP)
 - IP Geolocation (3rd Party API)
 
+## Steps
+1. Create an Azure subscription account. A good option is to create a [free Azure account](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount) <br>
+   ![image](https://github.com/user-attachments/assets/4e95ec38-7fbd-4b93-8f3b-44a0961c8693)
+2. 
+
 

@@ -6,6 +6,7 @@ Microsoft Sentinel is a cloud-native SIEM and SOAR solution by Microsoft, design
 ## Practical Lab Objective
 The goal of this lab is to deploy a vulnerable Azure Virtual Machine (Honeypot) exposed to the internet to capture and log live cyber-attacks. The data collected from various IP addresses worldwide will be monitored and used to create a real-time attack map, visually displaying the geographic origins of these attacks on a world map.
 <br>
+<br>
 ![azuresentinelsetup](https://github.com/user-attachments/assets/293027c1-073b-4b3c-b029-799bc1cb2719)
 
 
